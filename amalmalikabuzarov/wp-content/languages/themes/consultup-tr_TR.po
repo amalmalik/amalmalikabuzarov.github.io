@@ -1,0 +1,429 @@
+# Translation of Themes - Consultup in Turkish
+# This file is distributed under the same license as the Themes - Consultup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-28 17:32:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Consultup\n"
+
+#. Description of the theme
+msgid "Consultup WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly(Live preview : https://demo.themeansar.com/consultup/)"
+msgstr "Consultup WordPress teması kurumsal işletmeler, danışmanlık şirketleri, düğün planlayıcılar, hukuk firmaları, finans kuruluşları, seyahat acenteleri, yemek tarifleri yayınlayanlar, spor/medikal ürün mağazaları, startup'lar, internet üzerinden çalışan acenteler, portföyler, serbest çalışanlar, E-ticaret girişimleri dahil tüm işletmeler için ideal çözümdür. Temanın hassasiyeti yüksektir, WPML, Retinaya hazır, SEO dostu kullanımı vardır (Canlı önizleme: https://demo.themeansar.com/consultup/)"
+
+#. Theme Name of the theme
+#: lib/theme-option/view-general.php:13
+msgid "Consultup"
+msgstr "Consultup"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Arama"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Üzgünüz ancak aradığınız sayfa mevcut değil."
+
+#: functions.php:174
+msgid "Sidebar Widget Area"
+msgstr "Kenar çubuğu bileşen alanı"
+
+#: inc/icy/customize/consultup_customize_copyright.php:180
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/icy/customize/consultup_customize_header.php:321
+msgid "Button Text"
+msgstr "Düğme metni"
+
+#: inc/icy/customize/consultup_customize_header.php:257
+#: inc/icy/customize/consultup_customize_header.php:301
+msgid "Description"
+msgstr "Tanım"
+
+#: inc/icy/customize/consultup_customize_header.php:245
+#: inc/icy/customize/consultup_customize_header.php:289
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/icy/customize/consultup_customize_header.php:81
+#: inc/icy/customize/consultup_customize_copyright.php:28
+msgid "Hide / Show"
+msgstr "gizle / göster"
+
+#: inc/icy/customize/consultup_customize_header.php:34
+#: inc/icy/customize/consultup_customize_header.php:57
+msgid "Text"
+msgstr "Metin"
+
+#: inc/icy/customize/consultup_customize_header.php:23
+#: inc/icy/customize/consultup_customize_header.php:46
+#: inc/icy/customize/consultup_customize_header.php:233
+#: inc/icy/customize/consultup_customize_header.php:277
+msgid "Icon"
+msgstr "Simge"
+
+#: search.php:27
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüm, arama kriterlerinizle örtüşen sonuç bulunamadı. Farklı anahtar kelimelerle tekrar deneyin."
+
+#: search.php:25
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Anasayfa"
+
+#. translators: %s: search term
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: content.php:53
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: content.php:52
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: content.php:48
+msgid "by"
+msgstr "- Yazar: "
+
+#: functions.php:184
+msgid "Footer Widget Area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions.php:66
+msgid "Social Links Menu"
+msgstr "Sosyal bağlantılar menüsü"
+
+#: functions.php:65
+msgid "Primary menu"
+msgstr "Birincil menü"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Tam sayfa genişlik"
+
+#: lib/theme-option/class-consultup-admin-settings.php:501
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "Kullanımı kolay, Komple Özelleştirilebilir, Benzersiz seçenekler"
+
+#: lib/theme-option/class-consultup-admin-settings.php:447
+msgid "Premium Support"
+msgstr "Özel destek"
+
+#: lib/theme-option/class-consultup-admin-settings.php:445
+msgid "Your Feedback"
+msgstr "Geri bildiriminiz"
+
+#: lib/theme-option/class-consultup-admin-settings.php:443
+msgid "Pro Demo"
+msgstr "PRO örneği"
+
+#: lib/theme-option/class-consultup-admin-settings.php:441
+msgid "Lite Demo"
+msgstr "Lite örneği"
+
+#: lib/theme-option/class-consultup-admin-settings.php:437
+msgid "Consultup Usefull Links"
+msgstr "Consultup Faydalı Bağlantılar"
+
+#: lib/theme-option/class-consultup-admin-settings.php:418
+msgid "Visit to Customizer Settings:"
+msgstr "Özelleştirici Ayarlarını Ziyaret Edin:"
+
+#: lib/theme-option/class-consultup-admin-settings.php:410
+msgid "Site Button"
+msgstr "Site Tuşu"
+
+#: lib/theme-option/class-consultup-admin-settings.php:404
+msgid "Social Icon"
+msgstr "Sosyal Simge"
+
+#: lib/theme-option/class-consultup-admin-settings.php:398
+msgid "Sidebar Options"
+msgstr "Kenar çubuğu seçenekleri"
+
+#: lib/theme-option/class-consultup-admin-settings.php:392
+msgid "Set Colors"
+msgstr "Renkleri belirle"
+
+#: lib/theme-option/class-consultup-admin-settings.php:387
+msgid "Upload Logo"
+msgstr "Logo Yükle"
+
+#: lib/theme-option/class-consultup-admin-settings.php:378
+#: lib/theme-option/class-consultup-admin-settings.php:455
+msgid "Get More Options with Consultup Pro!"
+msgstr "Consultup Pro ile Daha Fazla Seçeneğe Ulaşın!"
+
+#: lib/theme-option/class-consultup-admin-settings.php:364
+msgid "Submit Ticket"
+msgstr "Bilet gönder"
+
+#: lib/theme-option/class-consultup-admin-settings.php:361
+msgid "We start with what the customer needs and we work backwards. You're absolutely free to contact us and consultup team will be happy to help you."
+msgstr "Müşteri ihtiyaçlarının neler olduğunu belirleyerek başladık ve arka planda destek sunmayla devam ettik. İstediğiniz zaman bize ulaşabilirsiniz. Consultup ekibi size yardımcı olmaktan mutluluk duyar."
+
+#: lib/theme-option/class-consultup-admin-settings.php:355
+msgid "Customer Support"
+msgstr "Müşteri Desteği"
+
+#: lib/theme-option/class-consultup-admin-settings.php:338
+msgid "Visit Us"
+msgstr "Bizi Ziyaret Edin"
+
+#: lib/theme-option/class-consultup-admin-settings.php:336
+msgid "Want to know how it works, take a look on this and get whole knowledge about consultup. Learn consultup"
+msgstr "Nasıl çalıştığını bilmek istiyorsanız buna göz atarak Consultup hakkında her şeyi öğrenebilirsiniz. Consultup hakkında bilgi edinin."
+
+#: lib/theme-option/class-consultup-admin-settings.php:332
+msgid "Learn More"
+msgstr "Daha Fazlasını Öğrenin"
+
+#: lib/theme-option/class-consultup-admin-settings.php:315
+msgid "Go to Cutomizer Panel"
+msgstr "Özelleştirici Paneline Git"
+
+#: lib/theme-option/class-consultup-admin-settings.php:311
+msgid "Click the below button and install ICYCLUB plugin in customizer Setting for full advatages frontpage and many other theme feature"
+msgstr "Ön sayfanın ve pek çok başka tema özelliğinin sunduğu tüm avantajlardan yararlanmak için aşağıdaki tuşa tıklayın ve Özelleştirici Ayarında ICYCLUB eklentisini yükleyin"
+
+#: lib/theme-option/class-consultup-admin-settings.php:304
+msgid "Install Plugin"
+msgstr "Eklentiyi Yükle"
+
+#: lib/theme-option/class-consultup-admin-settings.php:183
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: lib/theme-option/class-consultup-admin-settings.php:156
+msgid "consultup"
+msgstr "consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:155
+msgid "Consultup Options"
+msgstr "Consultup Seçenekleri"
+
+#. translators: %s theme name
+#: lib/theme-option/class-consultup-admin-settings.php:48
+msgid "Get started with %s"
+msgstr "%s ile işe başlayın"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-consultup-admin-settings.php:34
+msgid "Thanks For Choosing %1$s - Version %2$s"
+msgstr "%1$s teması%2$s sürümünü seçtiğiniz için teşekkürler"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Pro Sürüme Geç"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Consultup Pro Available!"
+msgstr "Consultup Pro Sürümü Hazır!"
+
+#: inc/icy/customizer-notify/consultup-customizer-notify.php:111
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: inc/icy/customize/plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: inc/icy/customize/plugin_recommend.php:16
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/icy/customize/plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "Yükle ve etkinleştir"
+
+#: inc/icy/customize/plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "Önerilen eklenti"
+
+#: inc/icy/customize/plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: inc/icy/customize/consultup_customize_home.php:8
+msgid "Homepage section settings"
+msgstr "Ana sayfa bölüm ayarları"
+
+#: inc/icy/customize/consultup_customize_copyright.php:209
+msgid "Footer social icon"
+msgstr "Alt bilgi sosyal medya simgesi"
+
+#: inc/icy/customize/consultup_customize_copyright.php:203
+msgid "Select Column Layout"
+msgstr "Sütun yerleşimi seçin"
+
+#: inc/icy/customize/consultup_customize_copyright.php:187
+msgid "Footer widget column layout"
+msgstr "Alt kısım bileşeni sütun yerleşimi"
+
+#: inc/icy/customize/consultup_customize_copyright.php:166
+msgid "Footer background setting"
+msgstr "Alt bilgi arkaplan ayarı"
+
+#: inc/icy/customize/consultup_customize_copyright.php:10
+msgid "Footer social icon settings"
+msgstr "Alt bilgi sosyal medya simgesi ayarları"
+
+#: inc/icy/customize/consultup_customize_copyright.php:6
+msgid "Footer Settings"
+msgstr "Alt kısım ayarları"
+
+#: inc/icy/customize/consultup_customize_header.php:333
+msgid "Button Link"
+msgstr "Düğme bağlantısı"
+
+#: inc/icy/customize/consultup_customize_header.php:308
+msgid "Header Widget Three Setting"
+msgstr "Üst kısım bileşen üç ayarı"
+
+#: inc/icy/customize/consultup_customize_header.php:265
+msgid "Header Widget Two Setting"
+msgstr "Üst kısım bileşen iki ayarı"
+
+#: inc/icy/customize/consultup_customize_header.php:221
+msgid "Header Widget One Setting"
+msgstr "Üst kısım bileşen bir ayarı"
+
+#: inc/icy/customize/consultup_customize_header.php:199
+#: inc/icy/customize/consultup_customize_copyright.php:143
+msgid "Instagram URL"
+msgstr "Instagram URL'si"
+
+#: inc/icy/customize/consultup_customize_header.php:166
+#: inc/icy/customize/consultup_customize_copyright.php:110
+msgid "Linkedin URL"
+msgstr "LinkedIn URL"
+
+#: inc/icy/customize/consultup_customize_header.php:134
+#: inc/icy/customize/consultup_customize_copyright.php:78
+msgid "Twitter URL"
+msgstr "Twitter URL'si"
+
+#: inc/icy/customize/consultup_customize_header.php:117
+#: inc/icy/customize/consultup_customize_header.php:150
+#: inc/icy/customize/consultup_customize_header.php:182
+#: inc/icy/customize/consultup_customize_header.php:215
+#: inc/icy/customize/consultup_customize_header.php:346
+#: inc/icy/customize/consultup_customize_copyright.php:61
+#: inc/icy/customize/consultup_customize_copyright.php:94
+#: inc/icy/customize/consultup_customize_copyright.php:126
+#: inc/icy/customize/consultup_customize_copyright.php:159
+msgid "Open link in a new tab"
+msgstr "Bağlantıyı yeni sekmede aç"
+
+#: inc/icy/customize/consultup_customize_header.php:101
+#: inc/icy/customize/consultup_customize_copyright.php:45
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/icy/customize/consultup_customize_header.php:63
+msgid "Header Social Icon Settings"
+msgstr "Üst kısım sosyal simge ayarları"
+
+#: inc/icy/customize/consultup_customize_header.php:12
+msgid "Header Top Bar Setting"
+msgstr "Üst kısım üst çubuk ayarı"
+
+#: inc/icy/customize/consultup_customize_header.php:8
+msgid "Header Settings"
+msgstr "Üst kısım ayarları"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: header.php:92 header.php:158
+msgid "Toggle Navigation"
+msgstr "Navigasyonu değiştir"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Geri dön"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Off! Sayfa bulunamadı"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#: single.php:69
+msgid "By"
+msgstr "ile"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:60 comments.php:81
+msgid "Newer Comments"
+msgstr "Daha yeni yorumlar"
+
+#: comments.php:59 comments.php:80
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:56 comments.php:77
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; hakkında %1$s yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; hakkında %1$s yorum"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; için bir yorum"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/themes/consultup/"
+msgstr "https://themeansar.com/themes/consultup/"

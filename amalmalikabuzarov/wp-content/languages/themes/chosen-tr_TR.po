@@ -1,0 +1,348 @@
+# Translation of Themes - Chosen in Turkish
+# This file is distributed under the same license as the Themes - Chosen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-07 10:57:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Chosen\n"
+
+#: inc/review.php:113
+msgid "Click here to leave your review"
+msgstr "Buraya tıklayarak incelemenizi yazın"
+
+#: functions.php:19
+msgid "Hey! Sorry to interrupt, but you've been using Chosen for a little while now. If you're happy with this theme, could you take a minute to leave a review? <i>You won't see this notice again after closing it.</i>"
+msgstr "Selam! Böldüğüm için özür dilerim, ama Chosen temasını bir süredir kullandığınızı görüyorum. Temadan memnunsanız, birkaç dakikanızı ayırarak tema için bir inceleme yazabilir misiniz? <i>Bu bildirimi kapattığınızda tekrar görmeyeceksiniz.</i>"
+
+#: functions.php:190
+msgctxt "noun"
+msgid "Comment"
+msgstr "Yorum"
+
+#: functions.php:161
+msgctxt "noun"
+msgid "Email"
+msgstr "E-Posta"
+
+#: functions.php:154
+msgctxt "noun"
+msgid "Name"
+msgstr "İsim"
+
+#: theme-options.php:5 theme-options.php:6 theme-options.php:26
+msgid "%s Dashboard"
+msgstr "%s Panosu"
+
+#: inc/scripts.php:20
+msgctxt "verb: close the dropdown menu"
+msgid "close dropdown menu"
+msgstr "açılır menüyü kapat"
+
+#: inc/scripts.php:19
+msgctxt "verb: open the dropdown menu"
+msgid "open dropdown menu"
+msgstr "açılır menüyü aç"
+
+#: inc/scripts.php:18
+msgctxt "verb: close the menu"
+msgid "close menu"
+msgstr "menüyü kapat"
+
+#: inc/customizer.php:184
+msgctxt "noun: the blog section"
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:488 inc/scripts.php:17 header.php:32
+msgctxt "verb: open the menu"
+msgid "open menu"
+msgstr "menüyü aç"
+
+#: functions.php:137
+msgctxt "verb: edit this comment"
+msgid "Edit"
+msgstr "Düzenle"
+
+#: functions.php:133
+msgctxt "verb: reply to this comment"
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: content/post-categories.php:11
+msgctxt "View all posts in CATEGORY"
+msgid "View all posts in %s"
+msgstr "%s kategorisinde yazılan tüm yazıları gör"
+
+#: content/post-byline.php:12
+msgctxt "Published DATE by AUTHOR "
+msgid "By"
+msgstr "Yazar:"
+
+#: content/post-byline.php:5
+msgctxt "Published DATE"
+msgid "Published %s"
+msgstr "Tarih: %s"
+
+#: content/archive-header.php:10
+msgctxt "noun: Site Title's Posts"
+msgid "Posts"
+msgstr "Yazılar"
+
+#: content/comments-link.php:5 content/comments-link.php:8 comments.php:10
+msgctxt "noun: 5 comments"
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: functions.php:842
+msgid "Next"
+msgstr "İleri"
+
+#: inc/customizer.php:134
+msgid "Accepts Skype link protocol (<a href=\"%s\" target=\"_blank\">learn more</a>)"
+msgstr "Skype bağlantı protokolünü destekler (<a href=\"%s\" target=\"_blank\">bilgi için tıklayın</a>)"
+
+#: functions.php:841
+msgid "Previous"
+msgstr "Önceki"
+
+#: inc/customizer.php:258
+msgid "Display post author name in byline?"
+msgstr "Yazar ismini başlık altında göster?"
+
+#: functions.php:149
+msgid "(optional)"
+msgstr "(isteğe bağlı)"
+
+#: inc/customizer.php:160
+msgid "Search Bar"
+msgstr "Arama Çubuğu"
+
+#: inc/customizer.php:171
+msgid "Show search bar at top of site?"
+msgstr "Sitenin tepesinde arama çubuğunu göster?"
+
+#: inc/customizer.php:210
+msgid "Excerpt word count"
+msgstr "Yazı özetinde gösterilecek kelime sayısı"
+
+#: functions.php:222 functions.php:236 inc/customizer.php:217
+msgid "Continue Reading"
+msgstr "Devamını Oku"
+
+#: inc/customizer.php:222
+msgid "Read More button text"
+msgstr "Devamını Oku düğmesi metni"
+
+#: content/search-bar.php:12
+msgid "Search..."
+msgstr "Ara..."
+
+#: inc/customizer.php:54
+msgid "Add the URL for each of your social profiles."
+msgstr "Sosyal ağ hesaplarınıza ait adresleri ekleyin."
+
+#: inc/customizer.php:67
+msgid "Email Address"
+msgstr "E-Posta Adresi"
+
+#: searchform.php:6
+msgid "Go"
+msgstr "Git"
+
+#: searchform.php:5 content/search-bar.php:13
+msgid "Search for:"
+msgstr "Ara:"
+
+#: searchform.php:3 content/search-bar.php:11
+msgid "Search"
+msgstr "Ara"
+
+#: search.php:35
+msgid "Can't find what you're looking for?  Try refining your search:"
+msgstr "Aradığınızı bulamadınız mı? Başka şekilde arayın:"
+
+#: search.php:9
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] "\"%2$s\" araması için %1$d sonuç"
+msgstr[1] "\"%2$s\" araması için %1$d sonuç"
+
+#: search.php:11
+msgid "No search results for \"%s\""
+msgstr "\"%s\" araması için sonuç yok"
+
+#: inc/customizer.php:176 inc/customizer.php:344
+msgid "Hide"
+msgstr "Gizle"
+
+#: inc/customizer.php:175 inc/customizer.php:343
+msgid "Show"
+msgstr "Göster"
+
+#: inc/customizer.php:327
+msgid "Add Custom CSS Here:"
+msgstr "Buraya Özel CSS Kurallarınızı Yazın:"
+
+#: inc/customizer.php:232
+msgid "Additional Options"
+msgstr "Ek Seçenekler"
+
+#: inc/customizer.php:242
+msgid "Make first post on blog extra wide?"
+msgstr "Blogdaki ilk yazıyı ekstra geniş yap?"
+
+#: inc/customizer.php:316
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: inc/customizer.php:200 inc/customizer.php:248 inc/customizer.php:264
+#: inc/customizer.php:280 inc/customizer.php:296 inc/customizer.php:363
+msgid "No"
+msgstr "Hayır"
+
+#: inc/customizer.php:199 inc/customizer.php:247 inc/customizer.php:263
+#: inc/customizer.php:279 inc/customizer.php:295 inc/customizer.php:362
+msgid "Yes"
+msgstr "Evet"
+
+#: inc/customizer.php:194
+msgid "Show full posts on blog?"
+msgstr "Blog listeleme sayfalarında tüm yazı içeriği gösterilsin mi?"
+
+#: inc/customizer.php:36
+msgid "Upload custom logo."
+msgstr "Özel logo yükle."
+
+#: inc/customizer.php:52
+msgid "Social Media Icons"
+msgstr "Sosyal Medya Simgeleri"
+
+#: inc/customizer.php:26
+msgid "Logo"
+msgstr "Logo"
+
+#: templates/landing-page.php:16 header.php:17
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:564
+msgid "Customizer settings deleted."
+msgstr "Özelleştirici seçenekleri silindi."
+
+#: functions.php:501
+msgid "Featured Post"
+msgstr "Öne Çıkan Yazı"
+
+#: functions.php:168
+msgid "Website"
+msgstr "Web Sitesi"
+
+#: functions.php:125
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: functions.php:92
+msgid "Primary"
+msgstr "Birincil"
+
+#: footer.php:15
+msgid "<a href=\"%1$s\">%2$s WordPress Theme</a> by Compete Themes."
+msgstr "<a href=\"%1$s\">%2$s WordPress Teması</a>, Compete Themes tarafından hazırlanmıştır."
+
+#: content.php:13 templates/full-width.php:21 content-page.php:11
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: content/post-tags.php:9
+msgid "View all posts tagged %s"
+msgstr "%s etiketine sahip tüm yazıları gör"
+
+#: content/post-tags.php:6
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: content/post-nav.php:23
+msgid "The Next Post"
+msgstr "Sonraki Yazı"
+
+#: content/post-nav.php:26
+msgid "No Newer Posts"
+msgstr "Daha Yeni Yazı Yok"
+
+#: content/post-nav.php:12
+msgid "No Older Posts"
+msgstr "Daha Eski Yazı Yok"
+
+#: content/post-nav.php:13 content/post-nav.php:27
+msgid "Return to Blog"
+msgstr "Bloğa Dön"
+
+#: content/post-nav.php:22
+msgid "Next Post"
+msgstr "Sonraki yazı"
+
+#: content/post-nav.php:9
+msgid "The Previous Post"
+msgstr "Önceki Yazı"
+
+#: content/post-nav.php:8
+msgid "Previous Post"
+msgstr "Önceki yazı"
+
+#: content/post-nav-attachment.php:6
+msgid "Next Image"
+msgstr "Sonraki Görsel"
+
+#: content/post-nav-attachment.php:3
+msgid "Previous Image"
+msgstr "Önceki Görsel"
+
+#: content/post-categories.php:9
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+#: content/comments-link.php:8
+msgid "Leave a Comment"
+msgstr "Yorum Bırak"
+
+#: content/comments-link.php:5 content/comments-link.php:8
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: content/comments-link.php:2
+msgid "comment icon"
+msgstr "yorum simgesi"
+
+#: content/comments-link.php:5
+msgid "Comments closed"
+msgstr "Yorumlar kapalı"
+
+#. translators: placeholder is link to the trackback URL
+#: comments.php:32
+msgid "Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this post\">trackbacks</a> and pingbacks are open."
+msgstr "Bu yazı yorumlara kapalı, ama <a href=\"%s\" title=\"bu yazı için geri izleme adresi\">geri izlemeler</a> ve pingback'ler açık."
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Bu yazı yorumlara kapalı."
+
+#: 404.php:9
+msgid "Looks like nothing was found on this url.  Double-check that the url is correct or try the search form below to find what you were looking for."
+msgstr "Bu adreste geçerli bir sayfa yok gibi görünüyor. Adresin doğruluğunu kontrol edebilir veya isterseniz aşağıdaki arama formunda bulmak istediğiniz sayfayı aratabilirsiniz."
+
+#: comments.php:10
+msgid "Be First to Comment"
+msgstr "İlk Yorumu Siz Yapın"
+
+#: comments.php:10
+msgid "One Comment"
+msgstr "Tek Yorum"
+
+#: 404.php:6
+msgid "404: Page Not Found"
+msgstr "404: Sayfa Bulunamadı"

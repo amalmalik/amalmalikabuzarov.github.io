@@ -1,0 +1,1175 @@
+# Translation of Themes - Neve in Turkish
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-06 20:51:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve süper hızlı, kolayca özelleştirilebilen, çok amaçlı bir temadır. Bloglar, küçük işletmeler, girişimler, ajanslar, firmalar, e-ticaret mağazaları (mağaza olarak WooCommerce) için kullanılabileceği gibi, kişisel portföy siteleri ve bir çok başla tipte proje için de kullanılabilir. AMP için tamamen optimize edilmiş ve duyarlı bir tema olan Neve saniyeler içinde yüklenip, her türlü cihazda en mükemmel görüntüyü sunar. Çok hızlı ve minimalist bir tasarıma sahip olmasına rağmen oldukça genişletilebilirdir, SEO için iyileştirilmiş kodu sayesinde Google aramalarında üst sıralarda çıkar. Neve, Gutenberg ve en popüler sayfa oluşturucular (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi) ile uyumludur. Neve ayrıca WooCommerce, sağdan sola metin ve çeviriler için hazırdır, duyarlıdır. Başka tema aramayın. Neve sizin için mükemmel temanın kendisi!"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:266
+msgid "You are customizing the %s Header"
+msgstr "%s üst kısmı özelleştiriyorsunuz"
+
+#: inc/customizer/options/layout_sidebar.php:286
+msgid "edit"
+msgstr "düzenle"
+
+#: header-footer-grid/Core/Magic_Tags.php:489
+msgid "Single"
+msgstr "Tekil sayfa"
+
+#: header-footer-grid/Core/Magic_Tags.php:492
+msgid "Current Single Title"
+msgstr "Mevcut tekil sayfa başlığı"
+
+#: header-footer-grid/Core/Magic_Tags.php:496
+msgid "Current Single Excerpt"
+msgstr "Mevcut tekil sayfa özeti"
+
+#: header-footer-grid/Core/Magic_Tags.php:500
+msgid "Current Single URL"
+msgstr "Mevcut tekil sayfa adresi"
+
+#: header-footer-grid/Core/Magic_Tags.php:526
+msgid "Archive"
+msgstr "Arşiv"
+
+#: header-footer-grid/Core/Magic_Tags.php:529
+msgid "Archive Description"
+msgstr "Arşiv açıklaması"
+
+#: header-footer-grid/Core/Magic_Tags.php:533
+msgid "Archive Title"
+msgstr "Arşiv başlığı"
+
+#: header-footer-grid/Core/Magic_Tags.php:537
+msgid "Archive URL"
+msgstr "Arşiv adresi"
+
+#: header-footer-grid/Core/Magic_Tags.php:546
+msgid "Author Bio"
+msgstr "Yazar biografisi"
+
+#: header-footer-grid/Core/Magic_Tags.php:550
+msgid "Author Name"
+msgstr "Yazar adı"
+
+#: header-footer-grid/Core/Magic_Tags.php:554
+msgid "Author URL"
+msgstr "Yazar adresi"
+
+#: header-footer-grid/Core/Magic_Tags.php:577
+msgid "Global"
+msgstr "Global"
+
+#: header-footer-grid/Core/Magic_Tags.php:580
+msgid "Site Title"
+msgstr "Site başlığı"
+
+#: header-footer-grid/Core/Magic_Tags.php:584
+msgid "Site Tagline"
+msgstr "Site sloganı"
+
+#: header-footer-grid/Core/Magic_Tags.php:588
+msgid "Home URL"
+msgstr "Anasayfa bağlantısı"
+
+#: header-footer-grid/Core/Magic_Tags.php:592
+msgid "Current Year"
+msgstr "Bu yıl"
+
+#: header-footer-grid/Core/Magic_Tags.php:622
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: header-footer-grid/Core/Magic_Tags.php:625
+msgid "Product Price"
+msgstr "Ürün fiyatı"
+
+#: header-footer-grid/Core/Magic_Tags.php:629
+msgid "Product Title"
+msgstr "Ürün başlığı"
+
+#: header-footer-grid/Core/Magic_Tags.php:633
+msgid "Cart URL"
+msgstr "Sepet adresi"
+
+#: header-footer-grid/Core/Magic_Tags.php:637
+msgid "Checkout URL"
+msgstr "Ödeme adresi"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:154
+#: header-footer-grid/Core/Components/CartIcon.php:116
+msgid "Icon Size"
+msgstr "Simge boyutu"
+
+#: header-footer-grid/Core/Components/Logo.php:112
+msgid "Display"
+msgstr "Görüntüle"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:497
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: header-footer-grid/Core/Components/Button.php:131
+#: header-footer-grid/Core/Components/MenuIcon.php:148
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:148
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "Keyfi HTML kodu. Ayrıca kısa kodları da destekler."
+
+#: header-footer-grid/Core/Components/MenuIcon.php:101
+msgid "Menu label"
+msgstr "Menü etiketi"
+
+#: header-footer-grid/templates/rows.php:73
+#: header-footer-grid/Core/Builder/Header.php:183
+msgid "Mobile menu content"
+msgstr "Mobil menü içeriği"
+
+#: header-footer-grid/templates/rows.php:76
+msgid "Show"
+msgstr "Göster"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Hide"
+msgstr "Gizle"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:470
+#: header-footer-grid/Core/Components/Search.php:306
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:219
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:229
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text and Border"
+msgstr "Metin ve kenarlık"
+
+#: inc/customizer/options/buttons.php:98
+msgid "Button Appearance"
+msgstr "Düğme görünümü"
+
+#: header-footer-grid/Core/Builder/Footer.php:63
+msgid "Change Copyright"
+msgstr "Telif hakkını değiştir"
+
+#: header-footer-grid/Core/Builder/Footer.php:67
+msgid "Change Footer Color"
+msgstr "Alt bölüm rengini dğeiştir"
+
+#: header-footer-grid/Core/Builder/Header.php:62
+msgid "Change Logo"
+msgstr "Logo değiştir"
+
+#: header-footer-grid/Core/Builder/Header.php:66
+msgid "Change Header Color"
+msgstr "Üst kısım rengini değiştir"
+
+#: header-footer-grid/Core/Builder/Header.php:70
+msgid "Change Menu"
+msgstr "Menü değiştir"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:469
+msgid "Center"
+msgstr "Ortala"
+
+#: header-footer-grid/Core/Components/Logo.php:73
+msgid "Display your company logo here or simply use words to describe your business."
+msgstr "Şirket logonuzu burada görüntüleyin veya işletmenizi tanımlamak için kelimeler kullanın."
+
+#: header-footer-grid/Core/Customizer.php:328
+msgid "Search Components"
+msgstr "Arama bileşenleri"
+
+#: header-footer-grid/Core/Customizer/Instructions_Control.php:87
+#: header-footer-grid/Core/Customizer/Instructions_Section.php:85
+msgid "Quick Links"
+msgstr "Hızlı bağlantılar"
+
+#: inc/customizer/options/layout_blog.php:343
+msgid "Thumbnail Shadow"
+msgstr "Küçük resim gölgesi"
+
+#: inc/customizer/options/typography.php:150
+msgid "Body"
+msgstr "Gövde"
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "Hay aksi, bir şey ters gitti."
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "Hay aksi, çevrimdışı görünüyorsun."
+
+#: dashboard/inc/Main.php:411
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit(Adobe) Yazı Tiplari"
+
+#: dashboard/inc/Main.php:406
+msgid "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customizations."
+msgstr "LifterLMS sayfalarınızın PRO tasarım seçeneklerimizle harika görünmesini sağlayın. Çevrimiçi kurslarınızı en az özelleştirmeyle ayarlamanıza yardımcı olmak için özel olarak hazırlandı."
+
+#: dashboard/inc/Main.php:412
+msgid "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+msgstr "Modül, Neve tipografi seçeneklerinde yeni, harika Adobe (önceki Typekit) Yazı Tiplerini etkinleştirmenin kolay bir yolunu sağlar."
+
+#: dashboard/inc/Main.php:405
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Booster"
+
+#: dashboard/inc/Main.php:382
+msgid "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+msgstr "Güçlü özel düzen oluşturucu, temadadaki kanca konumlarından herhangi birinde kendi üst ve alt kısımlarınızı veya özel içeriğinizi kolayca oluşturmanıza olanak sağlar."
+
+#: dashboard/inc/Main.php:375
+msgid "Page Header Builder"
+msgstr "Sayfa üst kısım oluşturucu"
+
+#: dashboard/inc/Main.php:376
+msgid "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+msgstr "Sayfa üst kısmı, doğrudan başlığın altına oturan ve sayfa/yazı başlığını içeren yatay alandır. Özel oluşturucumuzu kullanarak çekici bir sayfa üst kısım alanını kolayca tasarlayın."
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:361
+msgid "Row Background"
+msgstr "Satır arka planı"
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Header.php:45
+#: header-footer-grid/Core/Builder/Footer.php:41
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "Tüm öğeleri gerçek zamanlı olarak sürükleyerek, bırakarak ve yeniden boyutlandırarak  %1$s bölümünü tasarlayın. %2$s."
+
+#: inc/customizer/options/layout_blog.php:424
+msgid "Show Author Avatar"
+msgstr "Yazar avatarını göster"
+
+#: inc/views/partials/post_meta.php:172
+msgid "by"
+msgstr " "
+
+#: dashboard/inc/Main.php:357
+msgid "Header/Footer builder"
+msgstr "Üst/Alt kısım yapıcı"
+
+#: dashboard/inc/Main.php:358
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Gerçek zamanlı WordPress özelleştiricideki tüm önemli öğeleri sürükleyip bırakarak sitenin üst ve alt kısmını kolayca oluşturun. PRO'da daha gelişmiş seçenekler mevcuttur."
+
+#: dashboard/inc/Main.php:363
+msgid "Page Builder Compatibility"
+msgstr "Sayfa oluşturucu uyumluluğu"
+
+#: dashboard/inc/Main.php:364
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Neve, siz sayfa oluşturucu hayranları için yeni WordPress editörü Gutenberg ile tamamen uyumludur. Neve, Elementor, Beaver Builder ve diğer tüm popüler sayfa oluşturucuları ile tam bir uyumluluğa sahiptir."
+
+#: dashboard/inc/Main.php:370
+msgid "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+msgstr "Üst kısım oluşturucusunu yeni harika bileşenlerle yeni bir seviyeye taşıyın: sosyal, iletişim, kırıntı, dil değiştirici, çoklu HTML, yapışkan ve saydam menü, sayfa üstbilgisi oluşturucu ve diğerleri."
+
+#: dashboard/inc/Main.php:388
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Artan kullanıcı deneyimi için özel olarak tasarlanmış özelliklerle tüm blog oluşturma deneyiminize büyük bir destek verin."
+
+#: dashboard/inc/Main.php:388
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Paylaşma, özel yazı sıralama, yorum entegrasyonları, bir makaleyi okumak için gereken dakika sayısı ve daha fazlası."
+
+#: dashboard/inc/Main.php:400
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Çevrimiçi mağazanızı, pürüzsüz WooCommerce entegrasyonu için özel olarak tasarlanmış harika yeni özelliklerle güçlendirin."
+
+#: dashboard/inc/Main.php:400
+msgid "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+msgstr "İstek listesi, hızlı görüntüleme, video ürünleri, gelişmiş incelemeler, çok sayıda özel düzen ve daha fazlası."
+
+#: dashboard/inc/Main.php:417
+msgid "White Label"
+msgstr "Fason etiket"
+
+#: dashboard/inc/Main.php:418
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "Herhangi bir geliştirici veya ajans için, kendi müşterilerine web siteleri oluştururken, temayı kendilerininmiş gibi sunmayı kolaylaştırdık."
+
+#: dashboard/inc/Main.php:423
+msgid "Scroll To Top"
+msgstr "Başa dön"
+
+#: dashboard/inc/Main.php:424
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "Gerçekten uzun sayfaların en üstüne geri dönmenize yardımcı olacak basit ama etkili modül."
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "Pro"
+
+#: dashboard/inc/Main.php:394 inc/customizer/options/upsells.php:101
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Sadece tek bir tıklamayla içe aktarabileceğiniz güçlü eklentiler ve şablonlarla Elementor'un gerçek esnekliğinden yararlanın."
+
+#: inc/customizer/options/upsells.php:70
+msgid "View PRO Features"
+msgstr "Pro özellikleri görüntüle"
+
+#: dashboard/inc/Main.php:369 inc/customizer/options/upsells.php:90
+msgid "Header Booster"
+msgstr "Üst kısım güçlendiricisi"
+
+#: dashboard/inc/Main.php:387 inc/customizer/options/upsells.php:91
+msgid "Blog Booster"
+msgstr "Blog güçlendiricisi"
+
+#: dashboard/inc/Main.php:399 inc/customizer/options/upsells.php:92
+msgid "WooCommerce Booster"
+msgstr "WooCommerce güçlendiricisi"
+
+#: dashboard/inc/Main.php:381 inc/customizer/options/upsells.php:93
+msgid "Custom Layouts"
+msgstr "Özel düzenler"
+
+#: inc/customizer/options/upsells.php:94
+msgid "White Label module"
+msgstr "Fason etiket modülü"
+
+#: inc/customizer/options/upsells.php:95
+msgid "Scroll to Top module"
+msgstr "Başa dön modülü"
+
+#: dashboard/inc/Main.php:393 inc/customizer/options/upsells.php:96
+msgid "Elementor Booster"
+msgstr "Elementor güçlendiricisi"
+
+#: inc/customizer/options/upsells.php:100
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Herhangi bir kanca konumunda kendi özel kodunuzu veya içeriğinizi eklemenin yanı sıra kolayca özel alt ve üst kısımlar oluşturun."
+
+#: inc/customizer/options/buttons.php:43
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: inc/customizer/options/buttons.php:59 assets/js/src/gutenberg.js:14
+msgid "Primary"
+msgstr "Birincil"
+
+#: inc/customizer/options/buttons.php:62 assets/js/src/gutenberg.js:19
+msgid "Secondary"
+msgstr "İkincil"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+#: header-footer-grid/Core/Components/Search.php:284
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: header-footer-grid/Core/Components/CartIcon.php:142
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:43
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:91
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Color"
+msgstr "Renk"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+#: header-footer-grid/Core/Components/CartIcon.php:168
+msgid "Hover Color"
+msgstr "Vurgu rengi"
+
+#: inc/customizer/options/buttons.php:154
+msgid "Border radius"
+msgstr "Kenar yuvarlaklığı"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "Katalog kenar çubuğu"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Özel ürünler"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "Tümü"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1284
+msgid "Slide from Left"
+msgstr "Soldan kaydır"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:533
+#: inc/customizer/options/buttons.php:135
+msgid "Padding"
+msgstr "Dolgu"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:868
+msgid "Top"
+msgstr "Üst"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:155
+msgid "Right"
+msgstr "Sağ"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:876
+msgid "Bottom"
+msgstr "Alt"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:153
+msgid "Left"
+msgstr "Sol"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:558
+msgid "Margin"
+msgstr "Kenar"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "Menü seçin"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:329
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Style"
+msgstr "Stil"
+
+#: header-footer-grid/Core/Builder/Header.php:171
+msgid "Header Top"
+msgstr "Üst Başlık"
+
+#: header-footer-grid/Core/Builder/Header.php:175
+msgid "Header Main"
+msgstr "Ana Header"
+
+#: header-footer-grid/Core/Builder/Header.php:179
+msgid "Header Bottom"
+msgstr "Üst kısım alt"
+
+#: header-footer-grid/Core/Builder/Footer.php:120
+msgid "Footer Top"
+msgstr "Alt kısım üst"
+
+#: header-footer-grid/Core/Builder/Footer.php:124
+msgid "Footer Bottom"
+msgstr "Alt kısım alt"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:77
+msgid "Menu Icon"
+msgstr "Menü Simgesi"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "Logo ve site kimliği"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "Site başlığını göster"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "Site sloganını göster"
+
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+msgid "Button"
+msgstr "Tuş"
+
+#: header-footer-grid/Core/Components/Button.php:101
+msgid "Link"
+msgstr "Link"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "Sepet simgesi"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "Telif hakkı"
+
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+#: inc/core/front_end.php:74
+msgid "Secondary Menu"
+msgstr "İkincil Mönü"
+
+#: header-footer-grid/Core/Components/Nav.php:114
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:86
+msgid "Items Color"
+msgstr "Öğelerin rengi"
+
+#: header-footer-grid/Core/Components/Nav.php:156
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/SecondNav.php:109
+msgid "Items Hover Color"
+msgstr "Öğelerin vurgu rengi"
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "Arama formu"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+msgid "Search for..."
+msgstr "Arama..."
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+#: header-footer-grid/Core/Components/Search.php:66
+msgid "Placeholder"
+msgstr "Yer Tutucu"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "Arama simgesi"
+
+#: header-footer-grid/Core/Components/Nav.php:135
+msgid "Active Item Color"
+msgstr "Etkin öğe rengi"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "Son menü öğesi"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:147
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/views/pluggable/pagination.php:158
+msgid "previous"
+msgstr "önceki"
+
+#: inc/views/pluggable/pagination.php:163
+msgid "next"
+msgstr "sonraki"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:128 inc/admin/metabox/manager.php:145
+msgid "%s Settings"
+msgstr "%s ayarları"
+
+#: inc/core/admin.php:225
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:228
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s artık kuruldu ve kullanıma hazır. Başlamanız için bazı bağlantılar oluşturduk."
+
+#: inc/core/admin.php:237
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Kullanmaya hazır olan başlangıç sitelerinden birini deneyin"
+
+#: inc/core/admin.php:242
+msgid "Return to your dashboard"
+msgstr "Başlangıca dön"
+
+#: inc/core/admin.php:248
+msgid "or go to the theme settings"
+msgstr "veya tema ayarlarına git"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:221
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s yorum"
+msgstr[1] "%s yorum"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "PHP son sürüme yükseltiliyor"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "Hey, fark ettik ki artık desteklenmeyen zamanı geçmiş bir PHP sürümü kullanıyorsunuz. %s ile sitenizin hızlı ve güvenli olduğundan emin olun. Neve en düşük PHP 5.4.0 gerektirir."
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "İçerik genişliği"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "Münferit içerik genişliğini etkinleştir"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "Bileşenler"
+
+#: inc/admin/metabox/main.php:71
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:353
+msgid "Disable Header"
+msgstr "Üst kısmı devre dışı bırak"
+
+#: inc/admin/metabox/main.php:76
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:379
+msgid "Disable Title"
+msgstr "Başlığı devre dışı bırak"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "Öne çıkan görseli devre dışı bırak"
+
+#: inc/admin/metabox/main.php:88
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:365
+msgid "Disable Footer"
+msgstr "Alt kısmı devre dışı bırak"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "Özelleştirici ayarı"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:310
+#: inc/admin/metabox/main.php:38
+#: inc/customizer/options/layout_container.php:133
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:182
+msgid "Contained"
+msgstr "Sınırlandırılmış"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+#: inc/admin/metabox/main.php:39
+#: inc/customizer/options/layout_container.php:134
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:189
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#: inc/admin/metabox/main.php:41 inc/customizer/options/layout_container.php:43
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:165
+msgid "Container"
+msgstr "Kapsayıcı"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "Sol kenar çubuğu"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "Sağ kenar çubuğu"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "Kenar çubuğu yok"
+
+#: inc/admin/metabox/main.php:56 inc/core/front_end.php:495
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:141
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "Yükle ve etkinleştir"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+#: dashboard/build/dashboard.js:1
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/admin/plugin_install/main.php:128 dashboard/build/dashboard.js:1
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolyo"
+
+#: inc/admin/plugin_install/main.php:176
+msgid "Activating "
+msgstr "Etkinleştiriliyor "
+
+#: inc/compatibility/woocommerce.php:356
+msgid "Filter"
+msgstr "Süz"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Magic_Tags.php:598
+#: header-footer-grid/Core/Components/Nav.php:182 inc/views/header.php:165
+msgid "Cart"
+msgstr "Sepet"
+
+#: inc/core/admin.php:267 dashboard/build/dashboard.js:1
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: header-footer-grid/Core/Builder/Header.php:51
+#: header-footer-grid/Core/Builder/Footer.php:47 inc/core/admin.php:271
+msgid "Read full documentation"
+msgstr "Tam belgelendirmeyi okuyun"
+
+#: dashboard/inc/Main.php:310
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: dashboard/inc/Main.php:314
+msgid "Set Colors"
+msgstr "Renkleri belirle"
+
+#: dashboard/inc/Main.php:318
+msgid "Customize Fonts"
+msgstr "Yazı tiplerini özelleştir"
+
+#: dashboard/inc/Main.php:322
+msgid "Layout Options"
+msgstr "Yerleşim seçenekleri"
+
+#: dashboard/inc/Main.php:326
+msgid "Header Options"
+msgstr "Üst kısım seçenekleri"
+
+#: dashboard/inc/Main.php:330
+msgid "Blog Layouts"
+msgstr "Blog düzenleri"
+
+#: dashboard/inc/Main.php:334
+msgid "Footer Options"
+msgstr "Alt kısım seçenekleri"
+
+#: dashboard/inc/Main.php:338 inc/customizer/options/layout_sidebar.php:43
+msgid "Content / Sidebar"
+msgstr "İçerik / kenar çubuğu"
+
+#: header-footer-grid/templates/components/component-nav.php:26
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221 inc/core/front_end.php:72
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+#: inc/core/front_end.php:73
+msgid "Footer Menu"
+msgstr "Alt kısım menüsü"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:385
+#: header-footer-grid/Core/Components/Logo.php:205
+#: header-footer-grid/Core/Components/Copyright.php:84
+#: header-footer-grid/Core/Components/CustomHtml.php:163
+#: inc/compatibility/elementor.php:116
+#: inc/customizer/options/layout_blog.php:184
+#: inc/customizer/controls/react/src/common/common.js:77
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text Color"
+msgstr "Metin rengi"
+
+#: inc/core/front_end.php:496
+msgid "Shop Sidebar"
+msgstr "Mağaza yan sütunu"
+
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+#: inc/core/front_end.php:502
+msgid "Footer One"
+msgstr "Birinci alt kısım"
+
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+#: inc/core/front_end.php:503
+msgid "Footer Two"
+msgstr "İkinci alt kısım"
+
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+#: inc/core/front_end.php:504
+msgid "Footer Three"
+msgstr "Üçüncü alt kısım"
+
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+#: inc/core/front_end.php:505
+msgid "Footer Four"
+msgstr "Dördüncü alt kısım"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:266 assets/js/src/gutenberg.js:9
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:175
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:54
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:178
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/customizer/options/colors_background.php:43
+msgid "Colors & Background"
+msgstr "Renkler ve arka plan"
+
+#: inc/customizer/options/layout_sidebar.php:152
+#: inc/customizer/options/layout_blog.php:80
+msgid "Blog / Archive"
+msgstr "Blog / arşiv"
+
+#: inc/customizer/options/typography.php:115
+#: inc/customizer/options/layout_blog.php:117
+msgid "Blog"
+msgstr "Blog"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:303
+#: header-footer-grid/Core/Settings/Manager.php:181
+#: inc/customizer/options/main.php:53
+#: inc/customizer/options/layout_blog.php:117
+msgid "Layout"
+msgstr "Yerleşim"
+
+#: inc/customizer/options/layout_blog.php:233
+msgid "Enable Masonry"
+msgstr "Masonry özelliğini etkinleştir"
+
+#: inc/customizer/options/layout_blog.php:320
+msgid "Excerpt Length"
+msgstr "Özet uzunluğu"
+
+#: inc/customizer/options/layout_blog.php:271
+msgid "Post Pagination"
+msgstr "Yazı sayfalama"
+
+#: inc/customizer/options/layout_blog.php:276
+msgid "Number"
+msgstr "Sayı"
+
+#: inc/customizer/options/layout_blog.php:277
+msgid "Infinite Scroll"
+msgstr "Sonsuz kaydırma"
+
+#: inc/customizer/options/layout_single_post.php:68
+#: inc/customizer/options/layout_blog.php:290
+msgid "Thumbnail"
+msgstr "Küçük resim"
+
+#: inc/customizer/options/layout_single_post.php:67
+#: inc/customizer/options/layout_blog.php:291
+msgid "Title & Meta"
+msgstr "Başlık ve meta"
+
+#: inc/customizer/options/layout_blog.php:292
+msgid "Excerpt"
+msgstr "Özet"
+
+#: inc/customizer/options/layout_blog.php:303
+msgid "Post Content Order"
+msgstr "Yazı içerik sıralaması"
+
+#: header-footer-grid/Core/Magic_Tags.php:543
+#: inc/customizer/options/layout_blog.php:391
+#: inc/views/partials/post_meta.php:129
+msgid "Author"
+msgstr "Yazar"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:392
+#: inc/views/partials/post_meta.php:130
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/customizer/options/layout_blog.php:393
+#: inc/views/partials/post_meta.php:131
+msgid "Date"
+msgstr "Tarih"
+
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/customizer/options/layout_blog.php:394
+#: inc/views/partials/post_meta.php:132
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:319
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: inc/customizer/options/layout_blog.php:406
+msgid "Meta Order"
+msgstr "Meta sırası"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "Varsayılan kapsayıcı stili"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "Blog / arşiv kapsayıcı stili"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "Tekil yazı kapsayıcı stili"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "Mağaza / arşiv kapsayıcı stili"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "Tekil ürün kapsayıcı stili"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:74
+msgid "Footer"
+msgstr "Dip"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:317
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:151
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:202
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:237
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "None"
+msgstr "Hiç biri"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:218
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:228
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text"
+msgstr "Metin"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | %2$s ile güçlendirilmiştir"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:574
+msgid "Section Content"
+msgstr "Bölüm içeriği"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:122
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Search"
+msgstr "Ara"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Site genelinde kenar çubuğu düzeni"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Site genelinde içerik genişliği (%)"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "Gelişmiş seçenekleri etkinleştir"
+
+#: inc/customizer/options/layout_sidebar.php:153
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/typography.php:306
+msgid "Single Post"
+msgstr "Tekil Yazı"
+
+#: inc/customizer/options/layout_sidebar.php:160
+msgid "Shop / Archive"
+msgstr "Mağaza / arşiv"
+
+#: inc/customizer/options/layout_sidebar.php:161
+#: inc/customizer/options/layout_single_product.php:52
+msgid "Single Product"
+msgstr "Tekil ürün"
+
+#: inc/customizer/options/layout_sidebar.php:165
+msgid "Others"
+msgstr "Diğerleri"
+
+#: inc/customizer/options/layout_sidebar.php:224
+msgid "Sidebar Layout"
+msgstr "Yan Sütun Yerleşimi"
+
+#: inc/customizer/options/layout_sidebar.php:323
+msgid "Content Width (%)"
+msgstr "İçerik genişliği (%)"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Öğelerin sıralaması"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:491
+msgid "Header"
+msgstr "Üst Kısım"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:787
+#: inc/customizer/options/main.php:57
+msgid "Typography"
+msgstr "Tipografi"
+
+#: header-footer-grid/Core/Settings/Manager.php:177
+#: inc/customizer/options/typography.php:107
+msgid "General"
+msgstr "Genel"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "Başlıklar"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: header-footer-grid/Core/Components/Search.php:120
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:270
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Font Size"
+msgstr "Yazıtipi boyutu"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:286 inc/views/header.php:130
+#: inc/views/layouts/layout_sidebar.php:144
+msgid "Close"
+msgstr "Kapat"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:28
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+msgid "Navigation Menu"
+msgstr "Dolaşım menüsü"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:38
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+msgid "Toggle Navigation"
+msgstr "Menüyü aç/kapa"
+
+#. translators: search result
+#: inc/views/page_header.php:78
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "Yorum dolaşımı"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "Önceki"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "Sonraki"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "Geri bildirim:"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+#: inc/customizer/controls/react/src/common/CustomPalette.js:22
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Edit"
+msgstr "Düzenle"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "Yorum moderasyon bekliyor."
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; hakkında %1$s yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; hakkında %1$s yorum"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:235
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:318
+msgid "Tags"
+msgstr "Etiketler"
+
+#: inc/views/template_parts.php:251
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? %s."
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "Buradan başlayın"
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünen o ki bakındığınız her ne ise bulamıyoruz. Belki arama özelliği yardımcı olabilir."
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Sayfa Oluşturucusu tam genişlik (Neve)"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:204
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "%s ile, size özel tasarlanmış, tek tıkla kurulumu yapılabilen birçok benzersiz örnek arasından birini seçebilirsiniz. Tek yapmanız gereken beğendiğinizi seçmek, geri kalan her şeyi biz halledeceğiz."
+
+#. translators: %s - Theme name
+#. translators: %s - theme name
+#: dashboard/inc/Main.php:212 inc/core/admin.php:269
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Daha fazla ayrıntı mı gerekiyor? %s temasını nasıl kullanacağınız ile ilgili ayrıntılı bilgi için tam belgelerimize bir göz atın."
+
+#. translators: %s - Theme name
+#. translators: %s - theme name
+#: dashboard/inc/Main.php:200 inc/core/admin.php:261
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "%s değişik tasarımlardan birini seçebileceğiniz bir site kütüphanesi ile beraber gelir. Sürekli yenileri eklenen örnek koleksiyonumuzu ziyaret edin."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:210
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "%1$s kullanırken olası en iyi deneyimi yaşamanızı istiyoruz, bu yüzden de gerekli tüm bilgileri burada sizin için toparladık. Umarız bizim harika ürünler geliştirirken aldığımız keyif kadar siz de %1$s temasını kullanırken keyif alırsınız."
+
+#: inc/core/admin.php:259
+msgid "Sites Library"
+msgstr "Site kütüphanesi"
+
+#: inc/customizer/options/upsells.php:44 inc/customizer/options/upsells.php:104
+msgid "Get the PRO version!"
+msgstr "Pro sürümü alın!"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
